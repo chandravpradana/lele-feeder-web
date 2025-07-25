@@ -1,6 +1,6 @@
 const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby0XHgI23zR088aGty8HKJ2mwzNGRtrcoNqnh-Y2GJoKQVafAv2VdAMaPP2HeT9dcrQ/exec';
 const TELEGRAM_BOT_TOKEN = '8190460652:AAHu2L_0O_jzTJmxBo4mkQTSERPZYAmghjI';
-const TELEGRAM_CHAT_ID = '-2637747100/29';
+const TELEGRAM_CHAT_ID = '-1002637747100';
 
 document.getElementById('feedForm').addEventListener('submit', async function (e) {
   e.preventDefault();
